@@ -1,0 +1,6 @@
+title: Your Name
+description: Neuroscience & CS | Portfolio, CV, Art
+theme: minimal
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
