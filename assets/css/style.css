@@ -1,0 +1,8 @@
+/* Override theme accent color (orange-like) with green */
+a {
+  color: #1a8917;
+}
+
+a:hover {
+  color: #214869;
+}
