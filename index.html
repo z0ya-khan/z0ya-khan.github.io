@@ -68,6 +68,35 @@
       p {
         font-size: 0.9375em;
       }
+
+      @media (max-width: 768px) {
+          .wrapper {
+            flex-direction: column;
+            padding: 1rem;
+          }
+        
+          header {
+            flex: none;
+            width: 100%;
+          }
+        
+          section {
+            width: 100%;
+          }
+        
+          img {
+            max-width: 100%;
+            height: auto;
+          }
+        
+          body {
+            padding: 1rem;
+          }
+        
+          details summary {
+            font-size: 1.1em;
+          }
+        }
       
     </style>
   </head> 
