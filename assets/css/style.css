@@ -16,3 +16,8 @@ details summary {
 details[open] summary {
   font-weight: bold;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
